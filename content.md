@@ -51,12 +51,15 @@ Nebst dem Herrn von Ullrichstein ist auch Frau Haselmaus hier eingezogen.
 |--------------|----------|
 | Koordinaten: | -217/175 |
 
+Mit PvP Kämpfe aller Art unter Zuschauerschaft und mit verfügbarer gleicher Rüstung für die Gladiatoren können hier ausgetragen werden.
 
 #### Schafott
 
 |              |          |
 |--------------|----------|
 | Koordinaten: | -215/132 |
+
+Hier finden gelegentlich nach Laune der Turtlequeen öffentliche Hinrichtungen statt.
 
 #### Heulis Riesenturm
 
@@ -77,6 +80,9 @@ Nebst dem Herrn von Ullrichstein ist auch Frau Haselmaus hier eingezogen.
 |              |           |
 |--------------|-----------|
 | Koordinaten: | -122/-502 |
+
+Ihr habt beim letzten Bauprojekt ne Menge Items abgebaut oder übrig?
+Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spieler Material parken. Und Spieler auf der Suche nach Material können dann hier fündig werden.
 
 ### Guardian Farm
 
