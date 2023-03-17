@@ -13,13 +13,11 @@ Wie? Ihr befindet euch da noch gar nicht? Na dann hopphopp auf [Lillis Discord-S
 
 So jetzt aber: Zieht die Hosen aus und die 🐢-Panzer an. Und dann geht's los.
 
-# Locations
-
 *Die Angaben zu Koordinaten erfolgen entweder in X/Z- oder in X/Y/Z- Schreibweise.*
 
-## Overworld
+# Overworld
 
-### Spawn
+## Spawn
 |              |           |
 |--------------|-----------|
 | Koordinaten: | -392/-667 |
@@ -28,7 +26,7 @@ So jetzt aber: Zieht die Hosen aus und die 🐢-Panzer an. Und dann geht's los.
 
 Rund um den Turtletown-Lake hat sich eine Ansiedlung mehrerer Spieler gegründet.
 
-#### Lillis Hausbaum
+### Lillis Hausbaum
 
 |              |          |
 |--------------|----------|
@@ -45,7 +43,7 @@ Hier haust Turtlequeen Lillimon zusammen mit Purple in einem wunderschönen Kirs
 Von der einst globigen Burg Ullrichstein steht aktuell nur noch der Bergfried.
 Nebst dem Herrn von Ullrichstein ist auch Frau Haselmaus hier eingezogen.
 
-#### Arena
+### Arena
 
 |              |          |
 |--------------|----------|
@@ -53,7 +51,7 @@ Nebst dem Herrn von Ullrichstein ist auch Frau Haselmaus hier eingezogen.
 
 Mit PvP Kämpfe aller Art unter Zuschauerschaft und mit verfügbarer gleicher Rüstung für die Gladiatoren können hier ausgetragen werden.
 
-#### Schafott
+### Schafott
 
 |              |          |
 |--------------|----------|
@@ -61,7 +59,7 @@ Mit PvP Kämpfe aller Art unter Zuschauerschaft und mit verfügbarer gleicher R�
 
 Hier finden gelegentlich nach Laune der Turtlequeen öffentliche Hinrichtungen statt.
 
-#### Heulis Riesenturm
+### Heulis Riesenturm
 
 |              |          |
 |--------------|----------|
@@ -69,7 +67,7 @@ Hier finden gelegentlich nach Laune der Turtlequeen öffentliche Hinrichtungen s
 
 *Ein Netherportal in der Nähe steht bei -441/294 zur Verfügung.*
 
-### Wikingerdorf
+## Wikingerdorf
 
 |              |          |
 |--------------|----------|
@@ -93,8 +91,8 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 *Ein Netherportal in der Nähe steht zur Verfügung.*
 
 
-## Nether
-### Netherhub
+# Nether
+## Netherhub
 
 |              |           |
 |--------------|-----------|
@@ -105,13 +103,13 @@ Verbindungen zu
 - Wüste
 - Guardian-Farm
 
-### Bienenfarm
+## Bienenfarm
 
 |              |           |
 |--------------|-----------|
 | Koordinaten: | *kA*      |
 
-### Froglight-Farm
+## Froglight-Farm
 
 |              |           |
 |--------------|-----------|
@@ -130,7 +128,7 @@ Verbindungen zu
 |--------------|-----------|
 | Koordinaten: | *kA*      |
 
-## End
+# End
 
 ### XP-Farm
 
