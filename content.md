@@ -22,7 +22,7 @@ So jetzt aber: Zieht die Hosen aus und die 🐢-Panzer an. Und dann geht's los.
 |--------------|-----------|
 | Koordinaten: | -392/-667 |
 
-### Turtletown
+## Turtletown
 
 Rund um den Turtletown-Lake hat sich eine Ansiedlung mehrerer Spieler gegründet.
 
@@ -34,7 +34,7 @@ Rund um den Turtletown-Lake hat sich eine Ansiedlung mehrerer Spieler gegründet
 
 Hier haust Turtlequeen Lillimon zusammen mit Purple in einem wunderschönen Kirschbaum
 
-#### Burg Ullrichstein
+### Burg Ullrichstein
 
 |              |          |
 |--------------|----------|
@@ -73,7 +73,7 @@ Hier finden gelegentlich nach Laune der Turtlequeen öffentliche Hinrichtungen s
 |--------------|----------|
 | Koordinaten: | -43/502  |
 
-### Zentrallager
+## Materiallager
 
 |              |           |
 |--------------|-----------|
@@ -82,7 +82,9 @@ Hier finden gelegentlich nach Laune der Turtlequeen öffentliche Hinrichtungen s
 Ihr habt beim letzten Bauprojekt ne Menge Items abgebaut oder übrig?
 Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spieler Material parken. Und Spieler auf der Suche nach Material können dann hier fündig werden.
 
-### Guardian Farm
+*Ein Netherportal steht vor dem Haupteingang zur Verfügung*
+
+## Guardian Farm
 
 |              |           |
 |--------------|-----------|
@@ -116,13 +118,19 @@ Verbindungen zu
 | Koordinaten: | *kA*      |
 
 
-### Goldfarm
+## Goldfarm
 
 |              |           |
 |--------------|-----------|
 | Koordinaten: | *kA*      |
 
-### Piglinfarm
+## Piglinfarm
+
+|              |           |
+|--------------|-----------|
+| Koordinaten: | *kA*      |
+
+## Blaze-Farm
 
 |              |           |
 |--------------|-----------|
@@ -130,7 +138,7 @@ Verbindungen zu
 
 # End
 
-### XP-Farm
+## XP-Farm
 
 |              |           |
 |--------------|-----------|
