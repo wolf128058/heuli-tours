@@ -1,0 +1,192 @@
+<!doctype html>
+<html $if(lang)$ lang="$lang$" $endif$>
+
+<head>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+
+  <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/template.css" />
+
+  <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+  <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+  <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+  <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+  <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+  <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+  <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+  <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+
+  <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+
+
+  <!-- <script src="script.js"></script> -->
+
+  <!-- <script src="jquery.sticky-kit.js "></script> -->
+  <script type='text/javascript'
+    src='https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/menu/js/jquery.cookie.js'></script>
+  <script type='text/javascript'
+    src='https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+  <script type='text/javascript'
+    src='https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+  <link href="https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/menu/css/skins/blue.css"
+    rel="stylesheet" type="text/css" />
+  <link
+    href="https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/menu/css/skins/graphite.css"
+    rel="stylesheet" type="text/css" />
+  <link href="https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/menu/css/skins/grey.css"
+    rel="stylesheet" type="text/css" />
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  <script src="https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/script.js"></script>
+
+  <script
+    src="https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/jquery.sticky-kit.js"></script>
+  <meta name="generator" content="pandoc" />
+  $for(author-meta)$
+  <meta name="author" content="$author-meta$" />
+  $endfor$
+  $if(date-meta)$
+  <meta name="date" content="$date-meta$" />
+  $endif$
+  <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
+  <style type="text/css">
+    code {
+      white-space: pre;
+    }
+  </style>
+  $if(quotes)$
+  <style type="text/css">
+    q {
+      quotes: "“" "”" "‘" "’";
+    }
+  </style>
+  $endif$
+  $if(highlighting-css)$
+  <style type="text/css">
+    $highlighting-css$
+  </style>
+  $endif$
+  $for(css)$
+  <link rel="stylesheet" href="$css$" $if(html5)$$else$type="text/css" $endif$ />
+  $endfor$
+  $if(math)$
+  $math$
+  $endif$
+  $for(header-includes)$
+  $header-includes$
+  $endfor$
+  <style>
+    body {
+      background-color: #18181b;
+      color: #efeff1;
+      font-family: "Segoe UI", Roboto, "Ubuntu", "Noto Sans", "Droid Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    }
+
+    h1, h2, h3, h4 {
+      color: #ca8dcf;
+    }
+
+    .table {
+      width: auto;
+      min-width: unset;
+    }
+
+    .table th,
+    .table td {
+      border: 1px solid #444;
+    }
+
+    .table thead:first-child tr:first-child th,
+    .table thead:first-child tr:first-child td {
+      border-top: 1px solid #444;
+    }
+
+    .navbar-inner {
+      background-color: #fafafa;
+      background-image: -moz-linear-gradient(top, #232327, #18181b);
+      background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#232327), to(#18181b));
+      background-image: -webkit-linear-gradient(top, #232327, #18181b);
+      background-image: -o-linear-gradient(top, #232327, #18181b);
+      background-image: linear-gradient(to bottom, #232327, #18181b);
+      background-repeat: repeat-x;
+      filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#232327ff', endColorstr='#ff18181b', GradientType=0);
+    }
+
+    .doc-title {
+      color: #ca8dcf;
+      text-shadow: unset;
+    }
+
+    .well {
+      background-color: #303030;
+      border: 1px solid #404040;
+      -webkit-border-radius: 4px;
+      -moz-border-radius: 4px;
+      border-radius: 4px;
+      -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+      -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    }
+
+    .toc ul>li>a:hover,
+    .toc ul>li>a:focus {
+      text-decoration: none;
+      background-color: unset;
+    }
+  </style>
+</head>
+
+<body>
+  $if(title)$
+  <div class="navbar navbar-static-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <span class="doc-title">$title$</span>
+      </div>
+    </div>
+  </div>
+  $endif$
+  <div class="container">
+    <div class="row">
+      $if(toc)$
+      <div id="$idprefix$TOC" class="span3">
+        <div class="well toc">
+
+          $toc$
+
+        </div>
+      </div>
+      $endif$
+      <div class="span$if(toc)$9$else$12$endif$">
+
+        $if(abstract)$
+        <H1>$abstract-title$</H1>
+        $abstract$
+        $endif$
+
+        $for(include-before)$
+        $include-before$
+        $endfor$
+        $body$
+        $for(include-after)$
+        $include-after$
+        $endfor$
+      </div>
+    </div>
+  </div>
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+
+</html>
