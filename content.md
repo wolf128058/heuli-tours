@@ -42,7 +42,7 @@ Hier haust Turtlequeen Lillimon zusammen mit Purple in einem wunderschönen Kirs
 | Koordinaten: | -319/195 |
 
 Von der einst globigen Burg Ullrichstein steht aktuell nur noch der Bergfried auf seinem hübsch angelegten Hügel.
-Nebst dem Herrn von Ullrichstein ist auch Frau Haselmaus hier eingezogen.
+Nebst dem [Herrn von Ullrichstein](https://www.twitch.tv/michaelvonullrichstein) ist auch Frau Haselmaus hier eingezogen.
 
 ### Arena
 
