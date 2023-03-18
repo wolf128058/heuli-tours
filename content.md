@@ -50,7 +50,7 @@ Nebst dem [Herrn von Ullrichstein](https://www.twitch.tv/michaelvonullrichstein)
 |--------------|----------|
 | Koordinaten: | -217/175 |
 
-Mit PvP Kämpfe aller Art unter Zuschauerschaft und mit verfügbarer gleicher Rüstung für die Gladiatoren können hier ausgetragen werden.
+PvP Kämpfe aller Arten unter Zuschauerschaft und mit verfügbarer gleicher Rüstung für die Gladiatoren können hier ausgetragen werden.
 
 ### Schafott
 
