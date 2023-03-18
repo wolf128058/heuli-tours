@@ -98,7 +98,15 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 |              |           |
 |--------------|-----------|
 | Koordinaten: | 816/-1456 |
-| Netherportal: | *kA** |
+| Netherportal: | -178/99 |
+| Items: | Prismarinkristalle,<br>und -scherben,<br>Inc-Sacs<br>Raw Cod<br>Knochen |
+
+
+## Raid Farm
+
+|              |           |
+|--------------|-----------|
+| Koordinaten: | 864/-1664 |
 
 # Nether
 
@@ -161,6 +169,14 @@ Achtung: Mehrwegflaschen bitte wieder in die Rückgabe werfen.
 |--------------|-----------|
 | Koordinaten: | 45/-272      |
 | Items: | Blaze-Rod (dt: Lohentrute) |
+
+
+## Wither-Skelettfarm
+
+|              |           |
+|--------------|-----------|
+| Koordinaten: | 341/984      |
+| Items: | Wither-Köpfe, Knochen, Kohle |
 
 # End
 
