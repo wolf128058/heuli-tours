@@ -93,6 +93,13 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 
 *Ein Netherportal steht vor dem Haupteingang zur Verfügung*
 
+## Moosfarm
+
+|              |           |
+|--------------|-----------|
+| Koordinaten: | 173/-173 |
+
+
 ## Guardian Farm
 
 |              |           |
