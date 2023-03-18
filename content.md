@@ -157,6 +157,15 @@ Achtung: Mehrwegflaschen bitte wieder in die Rückgabe werfen.
 
 # End
 
+## Endportal
+
+|              |           |
+|--------------|-----------|
+| Koordinaten: | -782/2168 |
+| Netherportal: | 271/-98  |
+
+Wenn man das Portal nicht gerade aus nach Osten verlässt, sondern den Rückwärtsgang nach osten einlegt kommt man sogar noch an einer Farm mit Spinnen, Skeletten und Slime vorbei.
+
 ## XP-Farm
 
 |              |           |
