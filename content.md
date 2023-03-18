@@ -68,6 +68,13 @@ Hier finden gelegentlich nach Laune der Turtlequeen öffentliche Hinrichtungen s
 
 *Ein Netherportal in der Nähe steht bei -441/294 zur Verfügung.*
 
+## Lillis Resort
+
+|              |          |
+|--------------|----------|
+| Koordinaten: | -443/-1208 |
+| Netherportal: | -144/-52 |
+
 ## Wikingerdorf
 
 |              |          |
@@ -164,7 +171,7 @@ Achtung: Mehrwegflaschen bitte wieder in die Rückgabe werfen.
 | Koordinaten: | -782/2168 |
 | Netherportal: | 271/-98  |
 
-Wenn man das Portal nicht gerade aus nach Osten verlässt, sondern den Rückwärtsgang nach osten einlegt kommt man sogar noch an einer Farm mit Spinnen, Skeletten und Slime vorbei.
+Wenn man das Portal nicht geradeaus nach Osten verlässt, sondern den Rückwärtsgang nach Osten einlegt, kommt man sogar noch an einer Farm mit Spinnen, Skeletten und Slime vorbei.
 
 ## XP-Farm
 
