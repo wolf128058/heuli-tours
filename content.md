@@ -168,7 +168,7 @@ Achtung: Mehrwegflaschen bitte wieder in die Rückgabe werfen.
 |              |           |
 |--------------|-----------|
 | Koordinaten: | 45/-272      |
-| Items: | Blaze-Rod (dt: Lohentrute) |
+| Items: | Blaze-Rod (dt: Lohenrute) |
 
 
 ## Wither-Skelettfarm
