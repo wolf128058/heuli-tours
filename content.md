@@ -14,6 +14,7 @@ Wie? Ihr befindet euch da noch gar nicht? Na dann hopphopp auf [Lillis Discord-S
 So jetzt aber: Zieht die Hosen aus und die 🐢-Panzer an. Und dann geht's los.
 
 *Die Angaben zu Koordinaten erfolgen entweder in X/Z- oder in X/Y/Z- Schreibweise.*
+*Netherportalkoordinaten in den Tabellen sind die von der Netherseite.*
 
 # Overworld
 
@@ -40,7 +41,7 @@ Hier haust Turtlequeen Lillimon zusammen mit Purple in einem wunderschönen Kirs
 |--------------|----------|
 | Koordinaten: | -319/195 |
 
-Von der einst globigen Burg Ullrichstein steht aktuell nur noch der Bergfried.
+Von der einst globigen Burg Ullrichstein steht aktuell nur noch der Bergfried auf seinem hübsch angelegten Hügel.
 Nebst dem Herrn von Ullrichstein ist auch Frau Haselmaus hier eingezogen.
 
 ### Arena
@@ -77,7 +78,8 @@ Hier finden gelegentlich nach Laune der Turtlequeen öffentliche Hinrichtungen s
 
 |              |           |
 |--------------|-----------|
-| Koordinaten: | -122/-502 |
+| Koordinaten: | 122/-502 |
+| Netherportal: | 14/-64 |
 
 Ihr habt beim letzten Bauprojekt ne Menge Items abgebaut oder übrig?
 Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spieler Material parken. Und Spieler auf der Suche nach Material können dann hier fündig werden.
@@ -89,52 +91,69 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 |              |           |
 |--------------|-----------|
 | Koordinaten: | 816/-1456 |
-
-*Ein Netherportal in der Nähe steht zur Verfügung.*
-
+| Netherportal: | *kA** |
 
 # Nether
+
+Im Nether gibt es kein Wasser, keine Tageszeiten und ein komprimiertes Streckenverhältnis, auf der X und Z Achse. Hier bieten sich besondere Strecken und Abkürzungen mittels Nether-Portalen an.
+
 ## Netherhub
 
 |              |           |
 |--------------|-----------|
-| Koordinaten: | *kA*      |
+| Koordinaten:  | *kA**   |
+| Netherportal: | -25/20   |
 
-Verbindungen zu
-- Endportal
-- Wüste
-- Guardian-Farm
+Es bestehen Eisbahnverbindungen zu den Netherportalen für:
+- Norden
+  - Guardianfarm
+  - Wüste
+- Süden
+  - End
+- Westen
+  - Turtetown-Museum
+- Osten
+
 
 ## Bienenfarm
 
 |              |           |
 |--------------|-----------|
-| Koordinaten: | *kA*      |
+| Koordinaten: | 27/-21    |
+| Items: | Honig, Waben    |
+
+Über Fialers Netherportal schwebt eine Bienenfarm.
+Honig- und Wabenbedarf kann hier gedeckt werden.
+Achtung: Mehrwegflaschen bitte wieder in die Rückgabe werfen.
 
 ## Froglight-Farm
 
 |              |           |
 |--------------|-----------|
-| Koordinaten: | *kA*      |
+| Koordinaten: | 167/-338  |
+| Items: | Froglights      |
 
 
 ## Goldfarm
 
 |              |           |
 |--------------|-----------|
-| Koordinaten: | *kA*      |
+| Koordinaten: | 127/-94      |
+| Items: | Goldnuggets/-barren |
 
 ## Piglinfarm
 
 |              |           |
 |--------------|-----------|
-| Koordinaten: | *kA*      |
+| Koordinaten: | 114/-6      |
+| Items: | Fleisch, Verrottetes Fleisch |
 
 ## Blaze-Farm
 
 |              |           |
 |--------------|-----------|
-| Koordinaten: | *kA*      |
+| Koordinaten: | 45/-272      |
+| Items: | Blaze-Rod (dt: Lohentrute) |
 
 # End
 
@@ -143,3 +162,9 @@ Verbindungen zu
 |              |           |
 |--------------|-----------|
 | Koordinaten: | *kA*      |
+| Items: | Enderaugen      |
+
+
+# Schlusswort
+
+Euch fehlt hier was auf der Liste? Oder ihr habt einen Fehler entdeckt? Dann schickt mir doch eine Nachricht im Discord.
