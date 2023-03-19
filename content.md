@@ -22,6 +22,7 @@ So jetzt aber: Zieht die Hosen aus und die 🐢-Panzer an. Und dann geht's los.
 |              |           |
 |--------------|-----------|
 | Koordinaten: | -392/-667 |
+| Items: | Rüstung |
 
 ## Turtletown
 
@@ -98,6 +99,7 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 |              |           |
 |--------------|-----------|
 | Koordinaten: | 173/-173 |
+| Items: | Moos |
 
 
 ## Guardian Farm
@@ -114,6 +116,7 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 |              |           |
 |--------------|-----------|
 | Koordinaten: | 864/-1664 |
+| Items: | Totems |
 
 # Nether
 
@@ -203,6 +206,18 @@ Wenn man das Portal nicht geradeaus nach Osten verlässt, sondern den Rückwärt
 | Koordinaten: | *kA*      |
 | Items: | Enderaugen      |
 
+Hierhin kommt man eigentlich gar nicht wegen der unzähligen Enderaugen, sondern wegen der XP-Punkte, die man wegen Zauberei und Mending benötigt.
+
+
+# Linksammlung
+
+Ihr braucht etwas Hintergrundinfos zum Minecraft-Spiel oder fürs nächste Bauprojekt ein paar Ideen, dann hab ich euch hier noch ein paar weiterführende Links hinterlegt.
+
+- [Minecraft Fandom-Wiki](https://minecraft.fandom.com/de/wiki/Minecraft_Wiki)
+- [Minecraft-Stuff Wiki](https://wiki.minecraftstuff.net/)
+- [Grabcraft](https://www.grabcraft.com/)
+- [Plotz Modeller](https://www.plotz.co.uk/)
+- [Pixel-Circle-Generator](https://donatstudios.com/PixelCircleGenerator)
 
 # Schlusswort
 
