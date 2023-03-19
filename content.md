@@ -45,11 +45,19 @@ Hier haust Turtlequeen Lillimon zusammen mit Purple in einem wunderschönen Kirs
 Von der einst globigen Burg Ullrichstein steht aktuell nur noch der Bergfried auf seinem hübsch angelegten Hügel.
 Nebst dem [Herrn von Ullrichstein](https://www.twitch.tv/michaelvonullrichstein) ist auch Frau Haselmaus hier eingezogen.
 
+### Bibliothek
+
+|              |          |
+|--------------|----------|
+| Koordinaten: | -264/82  |
+
+Die fleißigen Bibliothekare dieser gut ausgestatteten Bücherei bieten euch allerlei magische Bücher zum Handeln an. Vergesst nicht Emeralds und normale Bücher zum Tausch einzupacken. Vereinzelt wurden hier auch schon handelswillige Handwerker gesehen.
+
 ### Arena
 
 |              |          |
 |--------------|----------|
-| Koordinaten: | -221/81 |
+| Koordinaten: | -221/81  |
 
 PvP Kämpfe aller Arten unter Zuschauerschaft und mit verfügbarer gleicher Rüstung für die Gladiatoren können hier ausgetragen werden.
 
