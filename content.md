@@ -49,7 +49,7 @@ Nebst dem [Herrn von Ullrichstein](https://www.twitch.tv/michaelvonullrichstein)
 
 |              |          |
 |--------------|----------|
-| Koordinaten: | -217/175 |
+| Koordinaten: | -221/81 |
 
 PvP Kämpfe aller Arten unter Zuschauerschaft und mit verfügbarer gleicher Rüstung für die Gladiatoren können hier ausgetragen werden.
 
