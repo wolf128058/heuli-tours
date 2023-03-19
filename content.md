@@ -203,10 +203,10 @@ Wenn man das Portal nicht geradeaus nach Osten verlässt, sondern den Rückwärt
 
 ## XP-Farm
 
-|              |           |
-|--------------|-----------|
-| Koordinaten: | *kA*      |
-| Items: | Enderaugen      |
+|              |            |
+|--------------|------------|
+| Koordinaten: |   239/-2   |
+| Items: | Enderaugen, XP   |
 
 Hierhin kommt man eigentlich gar nicht wegen der unzähligen Enderaugen, sondern wegen der XP-Punkte, die man wegen Zauberei und Mending benötigt.
 
