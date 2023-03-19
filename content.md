@@ -7,7 +7,7 @@ title: 🐺 Heuli-Tours
 
 Herzlich Willkommen in meinem kleinen Tourguide!
 
-Wir befinden uns auf dem wunderschönen Minecraft Server von [Lillimon](https://twitch.tv/lillimon). Und weil ich in einigen schönen Stunden auf diesem Server doch schon etwas herumgekommen bin, möchte ich euch mit diesem kleinen Tourguide eine kleine Aufstellung servieren, welche wunderschönen Plätzchen man dort mittlerweile finden kann.
+Wir befinden uns auf dem wunderschönen Minecraft Server von [Lillimon](https://twitch.tv/lillimon). Und weil ich in einigen kurzweiligen Stunden auf diesem Server doch schon etwas herumgekommen bin, möchte ich euch mit diesem kleinen Tourguide eine kleine Aufstellung servieren, welche herrlichen Plätzchen man dort mittlerweile finden kann.
 
 Wie? Ihr befindet euch da noch gar nicht? Na dann hopphopp auf [Lillis Discord-Server](https://discord.gg/AzaX3FqtY7), die Minecraft-Rolle holen und einen der Minecraft-Serveradmins um Whitelisting bitten. Im DC-Channel #minecraft findet ihr die hoffentlich aktuelle Serveradresse, ein paar Spielregeln und auch genug Platz und nette Menschen für eure Fragen.
 
