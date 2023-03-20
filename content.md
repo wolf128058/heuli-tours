@@ -90,6 +90,7 @@ Ist es Blasphemie, sich bis in den Himmel zu bauen? Das hab ich für euch getest
 
 |              |          |
 |--------------|----------|
+| Netherportal: | -5/62  |
 | Koordinaten: | -43/502  |
 
 ## Materiallager
