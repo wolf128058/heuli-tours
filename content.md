@@ -141,6 +141,7 @@ Im Nether gibt es kein Wasser, keine Tageszeiten und ein komprimiertes Streckenv
 | Netherportal: | -25/20   |
 
 Es bestehen Eisbahnverbindungen zu den Netherportalen für:
+
 - Norden
   - Guardianfarm
   - Wüste
