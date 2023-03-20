@@ -81,24 +81,24 @@ Ist es Blasphemie, sich bis in den Himmel zu bauen? Das hab ich für euch getest
 
 ## Lillis Resort
 
-|              |          |
-|--------------|----------|
-| Koordinaten: | -443/-1208 |
-| Netherportal: | -144/-52 |
+|               |            |
+|---------------|------------|
+| Koordinaten:  | -443/-1208 |
+| Netherportal: | -144/-52   |
 
 ## Wikingerdorf
 
-|              |          |
-|--------------|----------|
-| Netherportal: | -5/62  |
-| Koordinaten: | -43/502  |
+|               |          |
+|---------------|----------|
+| Netherportal: | -5/62    |
+| Koordinaten:  | -43/502  |
 
 ## Materiallager
 
-|              |           |
-|--------------|-----------|
-| Koordinaten: | 122/-502 |
-| Netherportal: | 14/-64 |
+|               |           |
+|---------------|-----------|
+| Koordinaten:  | 122/-502  |
+| Netherportal: | 14/-64    |
 
 Ihr habt beim letzten Bauprojekt ne Menge Items abgebaut oder übrig?
 Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spieler Material parken. Und Spieler auf der Suche nach Material können dann hier fündig werden.
@@ -109,17 +109,17 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 
 |              |           |
 |--------------|-----------|
-| Koordinaten: | 173/-173 |
-| Items: | Moos |
+| Koordinaten: | 173/-173  |
+| Items:       | Moos      |
 
 
 ## Guardian Farm
 
-|              |           |
-|--------------|-----------|
-| Koordinaten: | 816/-1456 |
-| Netherportal: | -178/99 |
-| Items: | Prismarinkristalle,<br>und -scherben,<br>Inc-Sacs<br>Raw Cod<br>Knochen |
+|               |           |
+|---------------|-----------|
+| Koordinaten:  | 816/-1456 |
+| Netherportal: | -178/99   |
+| Items:        | Prismarinkristalle,<br>und -scherben,<br>Inc-Sacs<br>Raw Cod<br>Knochen |
 
 
 ## Raid Farm
@@ -127,7 +127,7 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 |              |           |
 |--------------|-----------|
 | Koordinaten: | 864/-1664 |
-| Items: | Totems |
+| Items:       | Totems    |
 
 # Nether
 
@@ -135,10 +135,10 @@ Im Nether gibt es kein Wasser, keine Tageszeiten und ein komprimiertes Streckenv
 
 ## Netherhub
 
-|              |           |
-|--------------|-----------|
-| Koordinaten:  | *kA**   |
-| Netherportal: | -25/20   |
+|               |           |
+|---------------|-----------|
+| Koordinaten:  | *kA*      |
+| Netherportal: | -25/20    |
 
 Es bestehen Eisbahnverbindungen zu den Netherportalen für:
 
@@ -154,10 +154,10 @@ Es bestehen Eisbahnverbindungen zu den Netherportalen für:
 
 ## Bienenfarm
 
-|              |           |
-|--------------|-----------|
-| Koordinaten: | 27/-21    |
-| Items: | Honig, Waben    |
+|              |              |
+|--------------|--------------|
+| Koordinaten: | 27/-21       |
+| Items:       | Honig, Waben |
 
 Über Fialers Netherportal schwebt eine Bienenfarm.
 Honig- und Wabenbedarf kann hier gedeckt werden.
@@ -165,49 +165,49 @@ Achtung: Mehrwegflaschen bitte wieder in die Rückgabe werfen.
 
 ## Froglight-Farm
 
-|              |           |
-|--------------|-----------|
-| Koordinaten: | 167/-338  |
-| Items: | Froglights      |
+|              |                 |
+|--------------|-----------------|
+| Koordinaten: | 167/-338        |
+| Items:       | Froglights      |
 
 
 ## Goldfarm
 
-|              |           |
-|--------------|-----------|
-| Koordinaten: | 127/-94      |
-| Items: | Goldnuggets/-barren |
+|              |                     |
+|--------------|---------------------|
+| Koordinaten: | 127/-94             |
+| Items:       | Goldnuggets/-barren |
 
 ## Piglinfarm
 
-|              |           |
-|--------------|-----------|
-| Koordinaten: | 114/-6      |
-| Items: | Fleisch, Verrottetes Fleisch |
+|              |                        |
+|--------------|------------------------|
+| Koordinaten: | 114/-6                 |
+| Items:       | Fleisch,<br>Verrottetes Fleisch |
 
 ## Blaze-Farm
 
-|              |           |
-|--------------|-----------|
-| Koordinaten: | 45/-272      |
-| Items: | Blaze-Rod (dt: Lohenrute) |
+|              |         |
+|--------------|---------|
+| Koordinaten: | 45/-272 |
+| Items:       | Blaze-Rod<br>(dt: Lohenrute) |
 
 
 ## Wither-Skelettfarm
 
-|              |           |
-|--------------|-----------|
-| Koordinaten: | 341/984      |
-| Items: | Wither-Köpfe, Knochen, Kohle |
+|              |         |
+|--------------|---------|
+| Koordinaten: | 341/984 |
+| Items:       | Wither-Köpfe,<br>Knochen,<br>Kohle |
 
 # End
 
 ## Endportal
 
-|              |           |
-|--------------|-----------|
-| Koordinaten: | -782/2168 |
-| Netherportal: | 271/-98  |
+|               |           |
+|---------------|-----------|
+| Koordinaten:  | -782/2168 |
+| Netherportal: | 271/-98   |
 
 Wenn man das Portal nicht geradeaus nach Osten verlässt, sondern den Rückwärtsgang nach Osten einlegt, kommt man sogar noch an einer Farm mit Spinnen, Skeletten und Slime vorbei.
 
@@ -215,15 +215,15 @@ Wenn man das Portal nicht geradeaus nach Osten verlässt, sondern den Rückwärt
 
 |              |            |
 |--------------|------------|
-| Koordinaten: |   239/-2   |
-| Items: | Enderaugen, XP   |
+| Koordinaten: | 239/-2     |
+| Items:       | Enderaugen, XP   |
 
 Hierhin kommt man eigentlich gar nicht wegen der unzähligen Enderaugen, sondern wegen der XP-Punkte, die man wegen Zauberei und Mending benötigt.
 
 
 # Linksammlung
 
-Ihr braucht etwas Hintergrundinfos zum Minecraft-Spiel oder fürs nächste Bauprojekt ein paar Ideen, dann hab ich euch hier noch ein paar weiterführende Links hinterlegt.
+Ihr braucht etwas Hintergrundinfos zu Minecraft oder fürs nächste Bauprojekt ein paar Ideen, dann hab ich euch hier noch ein paar weiterführende Links hinterlegt.
 
 - [Minecraft Fandom-Wiki](https://minecraft.fandom.com/de/wiki/Minecraft_Wiki)
 - [Minecraft-Stuff Wiki](https://wiki.minecraftstuff.net/)
