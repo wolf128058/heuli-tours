@@ -34,7 +34,7 @@ Rund um den Turtletown-Lake hat sich eine Ansiedlung mehrerer Spieler gegründet
 |--------------|----------|
 | Koordinaten: | -263/210 |
 
-Hier haust Turtlequeen Lillimon zusammen mit Purple in einem wunderschönen Kirschbaum
+Hier haust Turtlequeen Lillimon zusammen mit Purple in einem wunderschönen Kirschbaum.
 
 ### Burg Ullrichstein
 
