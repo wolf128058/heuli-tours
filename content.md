@@ -129,6 +129,14 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 | Koordinaten: | 864/-1664 |
 | Items:       | Totems    |
 
+## Tintenbeutel Farm
+
+|               |           |
+|---------------|-----------|
+| Koordinaten:  | 3962/-909 |
+| Netherportal: | 495/-114  |
+| Items:        | Inc Sacs  |
+
 # Nether
 
 Im Nether gibt es kein Wasser, keine Tageszeiten und ein komprimiertes Streckenverhältnis, auf der X und Z Achse. Hier bieten sich besondere Strecken und Abkürzungen mittels Nether-Portalen an.
