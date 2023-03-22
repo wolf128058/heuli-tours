@@ -139,6 +139,8 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 | Netherportal: | 495/-114  |
 | Items:        | Inc Sacs  |
 
+Das letzte Mal, dass ich diese Location besucht hab, war sie noch im Bau befindlich.
+
 # Nether
 
 Im Nether gibt es kein Wasser, keine Tageszeiten und ein komprimiertes Streckenverhältnis, auf der X und Z Achse. Hier bieten sich besondere Strecken und Abkürzungen mittels Nether-Portalen an.
