@@ -86,6 +86,8 @@ Ist es Blasphemie, sich bis in den Himmel zu bauen? Das hab ich für euch getest
 | Koordinaten:  | -443/-1208 |
 | Netherportal: | -144/-52   |
 
+Hier hält sich Lilli gerne mal im Urlaub auf. Nebst gut ausgestatteter Küche findet sich hier auch ein entspannender Pool. Hier muss sich aber jeder (auch du Micha!) seiner Klamotten und Rüstung entledigen, bevor es ins Wasser geht.
+
 ## Wikingerdorf
 
 |               |          |
