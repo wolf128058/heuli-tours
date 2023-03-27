@@ -235,6 +235,14 @@ Wenn man das Portal nicht geradeaus nach Osten verlässt, sondern den Rückwärt
 
 Hierhin kommt man eigentlich gar nicht wegen der unzähligen Enderaugen, sondern wegen der XP-Punkte, die man wegen Zauberei und Mending benötigt.
 
+## Shulker-Shell-Farm
+
+|              |               |
+|--------------|---------------|
+| Koordinaten: | -615/815      |
+| Items:       | Shulkershells |
+
+Durch das Portal im Südwesten der kreisförmigen zentralen Anlage im End geht es am schnellsten und wer die Falltüren hier richtig bedienen kann, spart sich sogar die übliche Enderperle.
 
 # Linksammlung
 
