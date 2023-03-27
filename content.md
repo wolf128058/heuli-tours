@@ -24,6 +24,8 @@ So jetzt aber: Zieht die Hosen aus und die 🐢-Panzer an. Und dann geht's los.
 | Koordinaten: | -392/-667 |
 | Items: | Rüstung |
 
+Jeder hat mal klein angefangen oder hat ein Leben verloren und der (gesetzte Respawn-Punkt im eigenen Bettchen wurde abgebaut). Und dann landet man hier. Findet etwas Ausrüstung und startet (nochmal neu) ins Abenteuer.
+
 ## Turtletown
 
 Rund um den Turtletown-Lake hat sich eine Ansiedlung mehrerer Spieler gegründet.
