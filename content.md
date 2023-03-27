@@ -162,6 +162,7 @@ Es bestehen Eisbahnverbindungen zu den Netherportalen für:
 - Westen
   - Turtetown-Museum
 - Osten
+  - Tintentfarm
 
 
 ## Bienenfarm
@@ -228,7 +229,7 @@ Wenn man das Portal nicht geradeaus nach Osten verlässt, sondern den Rückwärt
 |              |            |
 |--------------|------------|
 | Koordinaten: | 239/-2     |
-| Items:       | Enderaugen, XP   |
+| Items:       | Enderaugen, XP |
 
 Hierhin kommt man eigentlich gar nicht wegen der unzähligen Enderaugen, sondern wegen der XP-Punkte, die man wegen Zauberei und Mending benötigt.
 
