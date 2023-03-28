@@ -163,7 +163,7 @@ Im Nether gibt es kein Wasser, keine Tageszeiten und ein komprimiertes Streckenv
 
 |               |           |
 |---------------|-----------|
-| Koordinaten:  | *kA*      |
+| Koordinaten:  | -198/164  |
 | Netherportal: | -25/20    |
 
 Die folgenden Spielerportale werdet ihr hier finden:
