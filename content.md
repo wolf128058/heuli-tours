@@ -173,7 +173,7 @@ Die folgenden Spielerportale werdet ihr hier finden:
 - Azratus (-85/-112)
 - CaptainHeadhunter (-214/87)
 
-Es bestehen Eisbahnverbindungen zu den Netherportalen für:
+Es bestehen Eisbahnverbindungen in alle Himmelsrichtungen zu den Netherportalen für:
 
 - Norden
   - Guardianfarm
