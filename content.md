@@ -166,6 +166,8 @@ Im Nether gibt es kein Wasser, keine Tageszeiten und ein komprimiertes Streckenv
 | Koordinaten:  | -198/164  |
 | Netherportal: | -25/20    |
 
+Über ein Portal in Turtletown kommt ihr zum Netherhub einer Zentralen Station mit Eisbahn und Portalanbindungen zu ganz verschiedenen Overworld-Orten.
+
 Die folgenden Spielerportale werdet ihr hier finden:
 
 - Azratus (-85/-112)
