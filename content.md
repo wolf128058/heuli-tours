@@ -90,6 +90,18 @@ Ist es Blasphemie, sich bis in den Himmel zu bauen? Das hab ich für euch getest
 
 Hier hält sich Lilli gerne mal im Urlaub auf. Nebst gut ausgestatteter Küche findet sich hier auch ein entspannender Pool. Hier muss sich aber jeder (auch du Micha!) seiner Klamotten und Rüstung entledigen, bevor es ins Wasser geht.
 
+## EmPos Bahnhof
+
+|               |            |
+|---------------|------------|
+| Koordinaten:  | -1373/603  |
+
+Schwer beeindruckend, was EmPo hier aufgebaut hat. Ein Must-See für alle Eisenbahnfreund*innen.
+Packt euch 'nen Minecart ein und genießt die Fahrt durch Turtle-Country!
+Ich hab übrigens die Abkürzung über CaptainHeadhunters Portal genommen.
+Gibt es was kürzeres, dann lasst es mich wissen!
+
+
 ## Wikingerdorf
 
 |               |          |
