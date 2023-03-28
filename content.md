@@ -157,6 +157,7 @@ Im Nether gibt es kein Wasser, keine Tageszeiten und ein komprimiertes Streckenv
 Die folgenden Spielerportale werdet ihr hier finden:
 
 - Azratus (-85/-112)
+- CaptainHeadhunter (-214/87)
 
 Es bestehen Eisbahnverbindungen zu den Netherportalen für:
 
