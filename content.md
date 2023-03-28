@@ -154,6 +154,10 @@ Im Nether gibt es kein Wasser, keine Tageszeiten und ein komprimiertes Streckenv
 | Koordinaten:  | *kA*      |
 | Netherportal: | -25/20    |
 
+Die folgenden Spielerportale werdet ihr hier finden:
+
+- Azratus (-85/-112)
+
 Es bestehen Eisbahnverbindungen zu den Netherportalen für:
 
 - Norden
