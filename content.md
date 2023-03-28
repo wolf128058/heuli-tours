@@ -181,7 +181,7 @@ Es bestehen Eisbahnverbindungen zu den Netherportalen für:
 - Westen
   - Turtetown-Museum
 - Osten
-  - Tintentfarm
+  - Tintenbeutelfarm
 
 
 ## Bienenfarm
