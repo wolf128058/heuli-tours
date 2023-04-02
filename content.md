@@ -156,9 +156,10 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 |---------------|-----------|
 | Koordinaten:  | 3962/-909 |
 | Netherportal: | 495/-114  |
-| Items:        | Inc Sacs  |
+| Items:        | Tintenbeutel,<br>Leuchttintenbeutel  |
 
-Das letzte Mal, dass ich diese Location besucht hab, war sie noch im Bau befindlich.
+In einem schwarzen Glasturm kommt an, was ihr zum Schwarzfärben von so allerlei Dingen gebrauchen könnt: Tintenbeutel!
+Und etwas weiter westlich im Wald verborgen in einer unterirdischen Anlage gibt es noch eine Anlage für Leuchttintenbeutel nebst Materialausgabe am AFK-Spot.
 
 # Nether
 
