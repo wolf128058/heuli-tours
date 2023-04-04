@@ -161,6 +161,17 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 In einem schwarzen Glasturm kommt an, was ihr zum Schwarzfärben von so allerlei Dingen gebrauchen könnt: Tintenbeutel!
 Und etwas weiter westlich im Wald verborgen in einer unterirdischen Anlage gibt es noch eine Anlage für Leuchttintenbeutel nebst Materialausgabe am AFK-Spot.
 
+
+## Wüstendorf
+
+|               |           |
+|---------------|-----------|
+| Koordinaten:  | -9508/-195 |
+| Netherportal: | -1189/-25 |
+| Items:        | Gunpowder |
+
+Das niedliche Wüstendorf wird von einigen Händlern bewohnt, bei denen ihr zu besten Konditionen eure Stöckchen gegen Emeralds tauschen könnt. Im Nordosten des Dorfes wurde eine Farm für Gunpowder errichtet.
+
 # Nether
 
 Im Nether gibt es kein Wasser, keine Tageszeiten und ein komprimiertes Streckenverhältnis, auf der X und Z Achse. Hier bieten sich besondere Strecken und Abkürzungen mittels Nether-Portalen an.
