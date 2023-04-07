@@ -216,10 +216,17 @@ Achtung: Mehrwegflaschen bitte wieder in die Rückgabe werfen.
 
 ## Froglight-Farm
 
-|              |                 |
-|--------------|-----------------|
-| Koordinaten: | 167/-338        |
-| Items:       | Froglights      |
+|              |            |
+|--------------|------------|
+| Koordinaten: | 167/-338   |
+| Items:       | Froglights |
+
+## Iron Golem Farm
+
+|              |       |
+|--------------|-------|
+| Koordinaten: | 168/0 |
+| Items:       | Eisenbarren<br>Poppies |
 
 
 ## Goldfarm
