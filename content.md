@@ -236,6 +236,10 @@ Achtung: Mehrwegflaschen bitte wieder in die Rückgabe werfen.
 | Koordinaten: | 127/-94             |
 | Items:       | Goldnuggets/-barren |
 
+Die Goldfarm hat einen AFK-Spot auf 1334/228/-88.
+Wenn ihr euch mit eurer Elytra dahin bewegt läufts auch mit den Mob-Spawns.
+Zu Fuß is aktuell leider nicht.
+
 ## Piglinfarm
 
 |              |                        |
