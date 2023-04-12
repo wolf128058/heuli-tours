@@ -291,6 +291,26 @@ Hierhin kommt man eigentlich gar nicht wegen der unzähligen Enderaugen, sondern
 
 Durch das Portal im Südwesten der kreisförmigen zentralen Anlage im End geht es am schnellsten und wer die Falltüren hier richtig bedienen kann, spart sich sogar die übliche Enderperle.
 
+# Plugins
+
+Meines Wissens nach - und ihr könnt das mit _/plugins_ jeder Zeit prüfen, sind die folgenden Plugins im Einsatz:
+
+| Name                 | Feature       |
+|----------------------|---------------|
+| AngelChest           | Wer stirbt hinterlässt für begrenzte Zeit eine ihm/ihr speziell gewidmete Truhe, aus der die beim Tod verlorenen Items abgeholt werden können. |
+| BlockLocker          | Mit einem Schild können Türen und Kisten (und mehr?) privatisiert, sprich einzelnen Spieler:innen exklusiv reserviert werden. |
+| CoreProtect          | Ein Schutz- und Log-Mod für den Server. Hiermit kann man nachlesen und Rückgängig machen, was Spieler:innen so verändert haben. |
+| InvSeePlusPlus       | Damit können berechtigte Spieler:innen anderen ins Inventar und in die (Ender-)chests schauen. |
+| InvSeePlusPlus_Clear | Aus dem Inventar von Spieler:innen können Items entfernt werden. |
+| InvSeePlusPlus_Give  | Dem Inventar von Spieler:innen können Items hinzugefügt werden. |
+| Playtimes*           | Ich schätze mal, dass das Spielzeiten der Spieler:innen als Statistik zeigt. GGf. sogar nach Tätigkeiten getrennt. |
+| SuperVanish          | Versteckte Spieler:innen mit entsprechenden Rechten bleiben komplett unsichtbar. |
+| WorldEdit            | Mod für größere (Um-)bauten und Landschaftsverändernde Maßnahmen. |
+| WorldGuard           | Schützt Bereiche der Welt vor Schäden durch Mobs, Feuer, ... |
+
+- AngelChests sind aktuell in der Overworld nicht im Einsatz, weil man hier beim Sterben am letzten Respawn oder globalen Spawn mit seinem Equipment ankommt.
+
+
 # Linksammlung
 
 Ihr braucht etwas Hintergrundinfos zu Minecraft oder fürs nächste Bauprojekt ein paar Ideen, dann hab ich euch hier noch ein paar weiterführende Links hinterlegt.
