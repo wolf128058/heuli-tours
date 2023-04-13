@@ -274,6 +274,8 @@ Zu Fuß is aktuell leider nicht.
 
 # End
 
+![Das "Zentrum" im End](img/lillim-end.png)
+
 ## Endportal
 
 |               |           |
