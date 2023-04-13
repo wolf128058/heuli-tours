@@ -116,6 +116,8 @@ Gibt es was kürzeres, dann lasst es mich wissen!
 
 ## Materiallager
 
+![Das Materiallager](img/lillim-lager.png)
+
 |               |           |
 |---------------|-----------|
 | Koordinaten:  | 122/-502  |
