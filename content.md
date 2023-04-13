@@ -128,6 +128,8 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 
 ## Moosfarm
 
+![Die Moosfarm](img/lillim-moosfarm.png)
+
 |              |           |
 |--------------|-----------|
 | Koordinaten: | 173/-173  |
