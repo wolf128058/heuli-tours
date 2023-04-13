@@ -324,3 +324,4 @@ Ihr braucht etwas Hintergrundinfos zu Minecraft oder fürs nächste Bauprojekt e
 # Schlusswort
 
 Euch fehlt hier was auf der Liste? Oder ihr habt einen Fehler entdeckt? Dann schickt mir doch eine Nachricht im Discord.
+Ganz Fortgeschrittene finden den Inhalt dieser Seite sogar auf [GitHub](https://github.com/wolf128058/heuli-tours/blob/main/content.md)
