@@ -61,23 +61,6 @@
   <meta name="date" content="$date-meta$" />
   $endif$
   <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
-  <style type="text/css">
-    code {
-      white-space: pre;
-    }
-  </style>
-  $if(quotes)$
-  <style type="text/css">
-    q {
-      quotes: "“" "”" "‘" "’";
-    }
-  </style>
-  $endif$
-  $if(highlighting-css)$
-  <style type="text/css">
-    $highlighting-css$
-  </style>
-  $endif$
   $for(css)$
   <link rel="stylesheet" href="$css$" $if(html5)$$else$type="text/css" $endif$ />
   $endfor$
@@ -88,6 +71,15 @@
   $header-includes$
   $endfor$
   <style>
+    $if(quotes)$
+    q {
+      quotes: "“" "”" "‘" "’";
+    }
+    $endif$
+    $if(highlighting-css)$
+      $highlighting-css$
+    $endif$
+
     body {
       background-color: #18181b;
       color: #efeff1;
@@ -97,7 +89,9 @@
     h1, h2, h3, h4 {
       color: #ca8dcf;
     }
-
+    code {
+      white-space: pre;
+    }
     .table {
       width: auto;
       min-width: unset;
