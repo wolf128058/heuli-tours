@@ -292,6 +292,8 @@ Hierhin kommt man eigentlich gar nicht wegen der unzähligen Enderaugen, sondern
 
 ## Shulker-Shell-Farm
 
+![Shulker-Shell-Farm](img/lillim-shulkerfarm.png)
+
 |              |               |
 |--------------|---------------|
 | Koordinaten: | -615/815      |
