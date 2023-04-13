@@ -136,6 +136,8 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 
 ## Guardian Farm
 
+![Die Guardian Farm](img/lillim-guardianfarm.png)
+
 |               |           |
 |---------------|-----------|
 | Koordinaten:  | 816/-1456 |
