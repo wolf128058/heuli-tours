@@ -51,6 +51,8 @@ Nebst dem [Herrn von Ullrichstein](https://www.twitch.tv/michaelvonullrichstein)
 
 ### Bibliothek
 
+![Die Bibliothek in Turtletown](img/lillim-bibliothek.png)
+
 |              |          |
 |--------------|----------|
 | Koordinaten: | -264/82  |
