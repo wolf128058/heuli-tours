@@ -295,8 +295,8 @@ Durch das Portal im Südwesten der kreisförmigen zentralen Anlage im End geht e
 
 Meines Wissens nach - und ihr könnt das mit _/plugins_ jeder Zeit prüfen, sind die folgenden Plugins im Einsatz:
 
-| Name                 | Feature       |
-|----------------------|---------------|
+| Name | Feature |
+|-|----|
 | AngelChest           | Wer stirbt hinterlässt für begrenzte Zeit eine ihm/ihr speziell gewidmete Truhe, aus der die beim Tod verlorenen Items abgeholt werden können. |
 | BlockLocker          | Mit einem Schild können Türen und Kisten (und mehr?) privatisiert, sprich einzelnen Spieler:innen exklusiv reserviert werden. |
 | CoreProtect          | Ein Schutz- und Log-Mod für den Server. Hiermit kann man nachlesen und Rückgängig machen, was Spieler:innen so verändert haben. |
