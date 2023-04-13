@@ -3,7 +3,7 @@ author: Vollmondheuler
 title: 🐺 Heuli-Tours
 ...
 
-# Wilkommen
+# Willkommen
 
 Herzlich Willkommen in meinem kleinen Tourguide!
 
