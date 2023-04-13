@@ -32,6 +32,8 @@ Rund um den Turtletown-Lake hat sich eine Ansiedlung mehrerer Spieler gegründet
 
 ### Lillis Hausbaum
 
+![Lillis Hausbaum](img/lillim-kirschbaum.png)
+
 |              |          |
 |--------------|----------|
 | Koordinaten: | -263/210 |
