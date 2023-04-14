@@ -19,10 +19,13 @@ So jetzt aber: Zieht die Hosen aus und die 🐢-Panzer an. Und dann geht's los.
 # Overworld
 
 ## Spawn
+
+![Spawnpunkt](img/lillim-spawn.png)
+
 |              |           |
 |--------------|-----------|
 | Koordinaten: | -392/-667 |
-| Items: | Rüstung |
+| Items:       | Rüstung, Grundausrüstung |
 
 Jeder hat mal klein angefangen oder hat ein Leben verloren und der (gesetzte Respawn-Punkt im eigenen Bettchen wurde abgebaut). Und dann landet man hier. Findet etwas Ausrüstung und startet (nochmal neu) ins Abenteuer.
 
