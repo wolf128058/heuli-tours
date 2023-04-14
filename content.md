@@ -127,6 +127,8 @@ Gibt es was kürzeres, dann lasst es mich wissen!
 
 ## Wikingerdorf
 
+![Wikingerdorf](img/lillim-wikinger.png)
+
 |               |          |
 |---------------|----------|
 | Netherportal: | -5/62    |
