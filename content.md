@@ -110,14 +110,16 @@ Hier hält sich Lilli gerne mal im Urlaub auf. Nebst gut ausgestatteter Küche f
 
 ## EmPos Bahnhof
 
+![Empos Bahnhof](img/lillim-empobhf.png)
+
 |               |            |
 |---------------|------------|
 | Koordinaten:  | -1373/603  |
 
-Schwer beeindruckend, was EmPo hier aufgebaut hat. Ein Must-See für alle Eisenbahnfreund*innen.
+Schwer beeindruckend, was EmPo hier aufgebaut hat. Ein Must-See für alle Eisenbahnfreund*innen. Das passt nie und nimmer auf den kleinen Bildausschnitt hier, was da alles an Schienen verlegt wurde. Sorry.
 Packt euch 'nen Minecart ein und genießt die Fahrt durch Turtle-Country!
 Ich hab übrigens die Abkürzung über CaptainHeadhunters Portal genommen.
-Gibt es was kürzeres, dann lasst es mich wissen!
+Gibt es was Kürzeres, dann lasst es mich wissen!
 
 ## Fialers Achterbahn
 
