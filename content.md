@@ -199,6 +199,7 @@ Und etwas weiter westlich im Wald verborgen in einer unterirdischen Anlage gibt 
 | Items:        | Gunpowder |
 
 Das niedliche Wüstendorf wird von einigen Händlern bewohnt, bei denen ihr zu besten Konditionen eure Stöckchen gegen Emeralds tauschen könnt. Im Nordosten des Dorfes wurde eine Farm für Gunpowder errichtet.
+Purple hat neben selbiger noch Farmen für Axolotl und tropical Fisch errichtet.
 
 # Nether
 
