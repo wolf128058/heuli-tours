@@ -178,7 +178,9 @@ Eure Farm lässt eure Kisten überlaufen? Dann könnt ihr hier für andere Spiel
 | Koordinaten: | 864/-1664 |
 | Items:       | Totems    |
 
-## Tintenbeutel Farm
+## Tintenbeutel-Farm
+
+![Die Tintenbeutel-Farm](img/lillim-tinte.png)
 
 |               |           |
 |---------------|-----------|
