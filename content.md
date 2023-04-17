@@ -236,6 +236,8 @@ Es bestehen Eisbahnverbindungen in alle Himmelsrichtungen zu den Netherportalen 
 
 ## Bienenfarm
 
+![Fialers Bienen Farm](img/lillim-bienenfarm.png)
+
 |              |              |
 |--------------|--------------|
 | Koordinaten: | 27/-21       |
