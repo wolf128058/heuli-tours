@@ -92,12 +92,13 @@ Ist es Blasphemie, sich bis in den Himmel zu bauen? Das hab ich für euch getest
 
 ## Turtletown II
 
-|              |             |
-|--------------|-------------|
-| Koordinaten: | 14647/-5973 |
+|               |             |
+|---------------|-------------|
+| Netherportal: | 1835/-747   |
+| Koordinaten:  | 14647/-5973 |
 
 
-In wunderschöner Abgelegenheit und in Nachbarschaft einer alten Woodland-Mansion entsteht hier ein neues Dorf. Auf dem auf [Discord-Server](https://discord.gg/AzaX3FqtY7) können Grundstücke reserviert werden.
+In wunderschöner Abgelegenheit und in Nachbarschaft einer alten Woodland-Mansion entsteht hier ein neues Dorf. Auf dem auf [Discord-Server](https://discord.gg/AzaX3FqtY7) können Grundstücke reserviert werden. Eine Abkürzung gibt es über die Goldplatten hinter den Flaggen bei Turtletown und zurück über einen Commandbutton.
 
 ## Lillis Resort
 
