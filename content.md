@@ -195,14 +195,24 @@ Und etwas weiter westlich im Wald verborgen in einer unterirdischen Anlage gibt 
 
 ## Wüstendorf
 
-|               |           |
-|---------------|-----------|
+|               |            |
+|---------------|------------|
 | Koordinaten:  | -9508/-195 |
-| Netherportal: | -1189/-25 |
-| Items:        | Gunpowder |
+| Netherportal: | -1189/-25  |
+| Items:        | Gunpowder  |
 
 Das niedliche Wüstendorf wird von einigen Händlern bewohnt, bei denen ihr zu besten Konditionen eure Stöckchen gegen Emeralds tauschen könnt. Im Nordosten des Dorfes wurde eine Farm für Gunpowder errichtet.
 Purple hat neben selbiger noch Farmen für Axolotl und tropical Fisch errichtet.
+
+## Badlands
+
+|               |            |
+|---------------|------------|
+| Koordinaten:  | 16164/-4890 |
+| Netherportal: | 2130/-609 |
+| Items:        | Terracotta / Eisen / Phantommembranen  |
+
+Hier hat uns CaptainHeadhunter ein schönes Portalhäuschen gebaut, Fialer eine Sortieranlage für Teracotta errichtet und ich hab ein paar Blöcke nördllich eine Eisenfarm und eine Phantomfalle hingestellt. Vor Ort befindet sich zudem auch eine Brennanlage mit genug Öfen und Lava falls ihr euer Terracotta oder was auch immer gleich brennen wollt.
 
 # Nether
 
