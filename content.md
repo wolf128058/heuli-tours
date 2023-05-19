@@ -214,6 +214,14 @@ Purple hat neben selbiger noch Farmen für Axolotl und tropical Fisch errichtet.
 
 Hier hat uns CaptainHeadhunter ein schönes Portalhäuschen gebaut, Fialer eine Sortieranlage für Teracotta errichtet und ich hab ein paar Blöcke nördllich eine Eisenfarm und eine Phantomfalle hingestellt. Vor Ort befindet sich zudem auch eine Brennanlage mit genug Öfen und Lava falls ihr euer Terracotta oder was auch immer gleich brennen wollt.
 
+## Industriebezirk
+
+|               |            |
+|---------------|------------|
+| Koordinaten:  | -10125/-10250 |
+| Netherportal: | -1266/-1282 |
+| Items:        | Moos / Eisen |
+
 # Nether
 
 Im Nether gibt es kein Wasser, keine Tageszeiten und ein komprimiertes Streckenverhältnis, auf der X und Z Achse. Hier bieten sich besondere Strecken und Abkürzungen mittels Nether-Portalen an.
