@@ -280,6 +280,8 @@ Achtung: Mehrwegflaschen bitte wieder in die Rückgabe werfen.
 | Koordinaten: | 168/0 |
 | Items:       | Eisenbarren<br>Poppies |
 
+Da Villager im Nether nicht von alleine zum Schlafen kommen, muss das Nickerchen per Pausenschalter alle 20min eingelegt werden, sonst spawnt kein Golem mehr. Bis das automatisiert ist, empfehle ich die Eisenfarm in den Badlands.
+
 
 ## Goldfarm
 
