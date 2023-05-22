@@ -316,6 +316,15 @@ Zu Fuß is aktuell leider nicht.
 | Koordinaten: | 341/984 |
 | Items:       | Wither-Köpfe,<br>Knochen,<br>Kohle |
 
+## Ghast Farm
+
+|              |         |
+|--------------|---------|
+| Koordinaten: | 2187/-599 |
+| Items:       | Ghast-Tears,<br>Gun Powder |
+
+Ganz in der Nähe des Badlands-Portals steht eine Farm, in der Ghasts verenden. Ein Afk-Spot für beste Effizienz ist für die Elytrierten unter euch auf Y=256 ganz hoch über der Farm zu finden.
+
 # End
 
 ![Das "Zentrum" im End](img/lillim-end.png)
